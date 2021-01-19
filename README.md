@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/jsperandio/pokedex-selenium">
+  <a href="https://github.com/jsperandio/pokedex-db-sample">
     <img src="resource/logo.png" alt="Logo" width="200" height="200">
   </a>
 
